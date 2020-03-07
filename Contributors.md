@@ -1,4 +1,5 @@
 # Contributors
+-Harshit Rastogi
 - Annie Watson
 - Jae Joo (https://github.com/jj534)
 - Joaquín M2
